@@ -1,0 +1,166 @@
+body{
+	background-image: url("imgg/pickkback.jpeg");
+	height: 500px;
+    background-size: cover;
+}
+h1{
+	font-family: Castellar;
+	text-decoration: underline;
+	font-size: 80px;
+	color: white;
+}
+h3{
+	color: white;
+	margin-top: -50px;
+	font-family: Bahnschrift Light;
+}
+ 
+
+ 
+  header  b{
+	text-decoration:underline;
+	display:block;
+	padding-left: 30px;
+	padding-right: 400px;
+	text-transform:uppercase;
+	font-size:35px;
+    color: black;
+ }
+ 
+ .full{
+	 max-width:960px;
+	 margin:0 auto;
+	
+	 
+ }
+ .Contact-Form{
+	 width:100%;
+	 margin:0 auto;
+	 text-align:center;
+	 margin-top:50px;
+ }
+ 
+ .Contact-Form p{
+	 color:#9999B9;
+	 margin-bottom:50px;
+ }
+ .input-fields{
+	 width:45%;
+	 float:left;
+	 overflow:hidden;
+	 margin-right:30px;
+	 margin-top: 50px;
+ }
+ .input-fields input{
+	  width:354px;
+	  padding:15px 20px;
+	  margin-bottom:20px;
+	  border:0;
+	  border-radius:3px ;
+  }
+ .msg{
+	 width:45%;
+	 overflow:hidden;
+	 margin-top: 70px;
+ }
+ .msg textarea{
+	 width:354px;
+	  padding:10px 20px;
+	  margin-bottom:20px;
+	  height:160px;
+	  border:0;
+	  border-radius:3px ;
+	  resize:none;
+ }
+ .Contact-Form button{
+	 padding:15px 20px;
+	 color:black;
+	 text-transform:uppercase;
+	 border:1px solid black;
+	 background:white;
+	 cursor:pointer;
+	 border-radius:3px;
+	 margin-right: 40px;
+     margin-top: 15px;
+ }
+  .Contact-Form button:hover{
+	border:1px solid black;
+	background:none;
+  }
+ .details{
+	
+	 width: 300px;
+	 height:150px;
+	 color: black;
+	 background:white;
+	 padding:10px;
+	 float:right;
+	 overflow:hidden;
+	 margin-right:160px;
+	 margin-top:50px;
+	 border-radius:3px;
+	 margin-bottom:50px;
+ }
+ .details:last-child{
+	margin-right:0;
+ }
+ .details h3{
+ 	padding-top: 60px;
+	 font-size:16px;
+	 color:black;
+	 font-style:normal;
+	 margin-left:10px;
+	 margin-bottom:20px;
+	 text-transform:uppercase;
+	 text-align:left;
+	 
+ }
+ .details  p{
+	font-size:13px;
+	font-family: Arial;
+	 color:black;
+	 font-style:normal;
+	 margin:0;
+	 padding:0;
+	 text-align:left;
+	 text-transform:capitalize;
+	 margin-left:10px;
+	 margin-bottom:2px;
+ }
+  footer{
+ 	font-size: 13px;
+	font-style: normal;
+	text-decoration:underline;
+	
+	padding-bottom: 20px;
+ 	padding-top: 20px;
+ 	margin-top: 250px;
+ 	color: #ffffff;
+ 	text-align: center;
+	padding: 20px;
+
+
+ }
+ .details p span
+ {
+	font-size: 12px;
+	color: green;
+ }
+
+ .details p span:hover
+ {
+	text-decoration: underline;
+	cursor: pointer;
+ }
+
+ .details p i
+ {
+	color: green;
+	font-size: 13px;
+	border: 0px solid;
+	box-shadow: #9999B9;
+ }
+ 
+
+
+ /* sandeep singh shekhawat*/
